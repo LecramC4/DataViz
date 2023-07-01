@@ -11,6 +11,8 @@ Archivos Dashboard:
 	dashboardApp.py: Layout del Dashboard y Callbacks.
 	dataset.py: Carga del Dataset, más generación de los graficos (a través de funciones).
 
+Ejecución Dashboard: python3 dashboardApp.py
+
 Graficos + Componentes:
 	
 	LinePlot / AreaPlot
