@@ -12,6 +12,9 @@ Archivos Dashboard:
 	dataset.py: Carga del Dataset, más generación de los graficos (a través de funciones).
 
 Ejecución Dashboard: python3 dashboardApp.py
+Elementos Necesarios:
+	* Archivos CSV + dataset.py en misma carpeta.
+	* Librerias dash, dash-bootstrap-components, plotly y pandas.
 
 Graficos + Componentes:
 	
